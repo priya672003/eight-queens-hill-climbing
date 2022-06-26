@@ -34,6 +34,11 @@ Repeat the process until the total number of attacks, or the Objective function,
 Display the necessary states and the time taken.
 
 ## PROGRAM
+### DEVELOPED BY
+
+### NAME:  PRIYADARSHINI R
+
+### REG.NO :  212220230038
 
 ```PYTHON3
 
